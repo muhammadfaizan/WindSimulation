@@ -38,15 +38,6 @@
     <ClInclude Include="RGBA.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RGBApixMap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="RGBPixMap.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="supportedClass.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="textures.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -54,6 +45,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="wav.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wind.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ODE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DragProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WindProjectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
